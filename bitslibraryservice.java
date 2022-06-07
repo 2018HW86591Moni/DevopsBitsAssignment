@@ -1,1 +1,1 @@
-Welcome to bits library service - Feature 1
+Welcome to student help server - Feature 1 & feature 2
